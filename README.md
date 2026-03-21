@@ -1,2 +1,2 @@
-# Advanced-Pandas nitin raghuvanshi
+# Advanced-Pandas nitin
 I have explored advanced Pandas operations including merge, join, concat, and groupby for efficient data manipulation.
